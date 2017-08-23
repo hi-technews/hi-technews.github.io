@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Aug 2017 14:23:51 at http://www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/ -O1 "C:\Users\trung anh\Desktop\techsite\asa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:24:23	Error: 	"Not Found" (404) at link zdnet4.cbsistatic.com/fly/images/core/btn-loader.gif (from zdnet4.cbsistatic.com/fly/css/core/main-92b99b07b2-rev.css)
+14:24:34	Error: 	"Forbidden" (403) at link zdnet4.cbsistatic.com/images/features/buyingcycle/buying-cycle-sprites.jpg (from zdnet4.cbsistatic.com/fly/css/core/main-92b99b07b2-rev.css)
+14:24:34	Warning: 	Moved Permanently for www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/GET/
+14:24:34	Warning: 	Redirected link is identical because of 'URL Hack' option: www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/GET/ and www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/get/
+14:24:34	Warning: 	Warning moved treated for www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/GET/ (real one is www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/get/)
+14:24:35	Error: 	"Not Found" (404) at link www.zdnet.com/article/ibm-blockchain-to-help-prevent-contamination-in-global-food-supply-chain/get/ (from zdnet3.cbsistatic.com/fly/bundles/zdnetjs/js/libs/mpulse-1.0.2.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 61 links scanned, 56 files written (1866700 bytes overall) [1117321 bytes received at 25393 bytes/sec], 1949414 bytes transferred using HTTP compression in 51 files, ratio 55%, 1.4 requests per connection
+(3 errors, 3 warnings, 0 messages)

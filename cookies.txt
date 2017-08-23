@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zdnet.com	TRUE	/	FALSE	1999999999	fly_geo	{"countryCode": "vn"}
+.zdnet.com	TRUE	/	FALSE	1999999999	fly_device	desktop
+.zdnet.com	TRUE	/	FALSE	1999999999	fly_default_edition	as
+
